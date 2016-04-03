@@ -1,0 +1,11 @@
+{
+  "name": "letschatserver",
+  "version": "1.0.0",
+  "description": "node server for letschat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digvijay, jainam",
+  "license": "ISC"
+}
